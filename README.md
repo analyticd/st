@@ -2,10 +2,10 @@
 
 st is a simple terminal emulator for X which sucks less.
 
-Update: This repo builds on macOS High Sierra as long as you install the
+Update: This repo builds on macOS Catalina as long as you install the
 dependencies.
 
-![Screenshot](https://i.imgur.com/HtHdlPu.png)
+![Screenshot](https://imgur.com/a/jGLo7W4 "Suckless Terminal on macOS Catalina")
 
 # Requirements
 
@@ -26,7 +26,7 @@ necessary as root):
 ```sh
 make clean install
 ```
-Note: If you are building on macOS you may  likely be using Brew and possibly
+Note: If you are building on macOS you may likely be using Brew and possibly
 also MacPorts for some things. Note that brew doesn't like you to change
 permissions on /usr/local/ so you can, as you see above, just install without
 sudo.
