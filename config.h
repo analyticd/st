@@ -5,7 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode Nerd Font Mono:style=Medium:pixelsize=12:antialias=true:autohint=true";
+/* static char *font = "FiraCode Nerd Font Mono:style=Medium:pixelsize=12:antialias=true:autohint=true"; */
+static char *font = "PragmataPro Mono:pixelsize=18:antialias=false:autohint=false";
+/* static char *font = "Terminus:pixelsize=24:antialias=false:autohint=false"; */
 static int borderpx = 0;
 
 /*
