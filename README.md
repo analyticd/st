@@ -5,7 +5,7 @@ st is a simple terminal emulator for X which sucks less.
 Update: This repo builds on macOS Catalina as long as you install the
 dependencies.
 
-![Screenshot](https://imgur.com/a/jGLo7W4 "Suckless Terminal on macOS Catalina")
+![Screenshot](https://imgur.com/iBqqbU1.png "Suckless Terminal on macOS Catalina")
 
 # Requirements
 
